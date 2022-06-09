@@ -37,5 +37,5 @@
 }
 
 // sensors
-#define NUM_SENSORS (HARP_SIZE * 2)
+#define NUM_SENSORS 16
 #define SENSOR_PINS { 4, 18, 19, 15, 9, 14, 16, 17, 7, 6, 12, 10, 5, 8, 13, 11 }
